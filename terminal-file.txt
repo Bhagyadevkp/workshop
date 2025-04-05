@@ -1,6 +1,7 @@
 This is a test file
 
 Updated version
+<<<<<<< HEAD
 
 Second Update
 
@@ -11,3 +12,5 @@ Fourth Update
 Fifth Update
 
 Sixth Update
+=======
+>>>>>>> parent of f908bfb... [IMP] SECOND UPDATE: updated a file
